@@ -1,0 +1,21 @@
+ffk_comment:
+    resource: "@FfkCommentBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+ffk_animaux:
+    resource: "@FfkAnimauxBundle/Resources/config/routing.yml"
+
+ffk_botanique:
+    resource: "@FfkBotaniqueBundle/Resources/config/routing.yml"
+
+ffk_user:
+    resource: "@FfkUserBundle/Resources/config/routing.yml"
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
+
+admin_area:
+    resource: "@SonataAdminBundle/Resources/config/routing/sonata_admin.xml"
+    prefix: /admin

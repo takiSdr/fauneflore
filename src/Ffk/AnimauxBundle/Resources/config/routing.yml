@@ -1,0 +1,3 @@
+ffk_animaux:
+    pattern:  /animaux
+    defaults: { _controller: FfkAnimauxBundle:Animal:index }

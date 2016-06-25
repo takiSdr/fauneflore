@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - botanique@localhost" uuid="534260da-4961-49e4-96ce-9b8ddf22e7f8">
+      <secret-storage>master_key</secret-storage>
+      <user-name>botanique</user-name>
+    </data-source>
+  </component>
+</project>
