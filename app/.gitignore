@@ -1,7 +1,0 @@
-/cache/*
-/config/parameters.yml
-/logs/*
-!cache/.gitkeep
-!logs/.gitkeep
-
-
